@@ -1,0 +1,20 @@
+SELENIUM:
+	sortedcontainers, urllib3, sniffio, pysocks, pycparser, idna, h11, exceptiongroup, certifi, attrs, wsproto, outcome, cffi, trio, trio-websocket, selenium
+
+WebDriver-Manager:
+	python-dotenv, packaging, charset-normalizer, requests, webdriver-manager
+
+PANDAS:
+	pytz, tzdata, six, numpy, python-dateutil, pandas
+
+MATPLOTLIB:
+	 pyparsing, pillow, kiwisolver, fonttools, cycler, contourpy, matplotlib
+
+PYQT5:
+	PyQt5-Qt5, PyQt5-sip, pyqt5
+
+PyQtWebEngine:
+	PyQtWebEngine-Qt5, PyQtWebEngine
+
+SKLEARN:
+	threadpoolctl, scipy, joblib, scikit-learn
